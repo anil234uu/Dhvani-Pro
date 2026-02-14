@@ -1,0 +1,7 @@
+{
+  "description": "Dhvani AI - Unlimited Text to Speech",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "Dhvani Pro"
+}
